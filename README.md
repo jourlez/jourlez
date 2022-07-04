@@ -59,6 +59,10 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="48" height="48" alt="sqlserver" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
@@ -69,10 +73,6 @@
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
       <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="48" height="48" alt="firebase" />
-      <br>SQL Server
     </td>
     <td align="center" width="96">
       <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" height="48" alt="prisma" />
