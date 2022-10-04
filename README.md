@@ -151,7 +151,7 @@
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="git" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -165,6 +165,34 @@
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
       <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48" alt="wordpress" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="48" height="48" alt="jquery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="48" height="48" alt="redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="celery" />
+      <br>Celery
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://dokku.com/assets/dokku-logo.svg" width="48" height="48" alt="dokku" />
+      <br>Dokku
     </td>
   </tr>
 </table>
