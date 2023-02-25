@@ -2,7 +2,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jourlez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=solarized-dark)
 
-- 🏢 Technical Administrative Assistant [Blockchain Costa Rica](https://blockchaincostarica.org/).
+- 🏢 Chief Information Officer [Blockchain Costa Rica](https://blockchaincostarica.org/).
+- 🥜 Chief Technology Officer [Mantequillas Mar y Sol](http://mantequillasmarysol.com/).
 - 🔭 Check out my [portfolio](https://jourlez.github.io/).
 - 👯 I’m looking to collaborate on open source projects
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/jourlez/)
